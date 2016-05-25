@@ -17,3 +17,9 @@ Pour vous aider à maîtriser tous les concepts et termes liés à Victoire.
 - Widget(s)
 
 - Vic Annotations
+
+- Critère
+
+- Données métier
+
+- Front-End Edition
