@@ -4,7 +4,71 @@
 Le système de critères de victoire repose sur un objet "DataSource".
 Cet objet à le rôle de fournir des paramètre de formulaire qui seront utilisés dans la modale de Widget, ainsi que des méthodes qui ont pour rôle de retrouner la valeur sur laquelle filtrer.
 
-Un exemple simple est implémenté dans victoire pour filtrer sur la langue courante (`_locale`) et sur le protocole (`scheme` http | https) dans l'objet `Victoire\Bundle\CriteriaBundle\DataSource`
+Un exemple simple est implémenté dans victoire pour filtrer sur la langue courante (`_locale`) et sur le protocole (`scheme` http | https):
+
+```php
+#Victoire\Bundle\CriteriaBundle\DataSource
+<?php
+
+namespace Victoire\Bundle\CriteriaBundle\DataSource;
+
+use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
+use Symfony\Component\HttpFoundation\RequestStack;
+
+class RequestDataSource
+{
+    /**
+     * @var RequestStack
+     */
+    private $requestStack;
+    private $availableLocales;
+
+    /**
+     * RequestCriteria constructor.
+     *
+     * @param RequestStack $requestStack
+     * @param              $availableLocales
+     */
+    public function __construct(RequestStack $requestStack, $availableLocales)
+    {
+        $this->requestStack = $requestStack;
+        $this->availableLocales = $availableLocales;
+    }
+
+    public function getLocale()
+    {
+        return $this->requestStack->getCurrentRequest()->getLocale();
+    }
+
+    public function getScheme()
+    {
+        return $this->requestStack->getCurrentRequest()->getScheme();
+    }
+
+    public function getLocaleFormParams()
+    {
+        return [
+            'type'    => ChoiceType::class,
+            'options' => [
+                'choices' => $this->availableLocales,
+            ],
+        ];
+    }
+
+    public function getSchemeFormParams()
+    {
+        return [
+            'type'    => ChoiceType::class,
+            'options' => [
+                'choices' => [
+                    'http'  => 'http',
+                    'https' => 'https',
+                ],
+            ],
+        ];
+    }
+}
+```
 
 On peut voir qu'il a une méthode "getLocale" qui retourne la locale de la requête courante, ainsi qu'une méthode "getLocaleFormParams" qui retourne le tableau de paramètre nécessaire pour générer un élément de formulaire de type Choice avec les locales activées comme choix.
 
