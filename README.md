@@ -2,8 +2,7 @@
 #
 -----
 ##### _Préambule_
-#
-_Cette documentation est en cours de construction. Si vous souhaitez y voir aborder un sujet précis, n'hésitez pas à créer un ticket **[ICI](https://github.com/Victoire/documentation-fr/issues)**_
+##### _Cette documentation est en cours de construction. Si vous souhaitez y voir aborder un sujet précis, n'hésitez pas à créer un ticket **[ICI](https://github.com/Victoire/documentation-fr/issues)**_
 ---
 #
 ## [Quick Tour](https://github.com/Victoire/documentation-fr/blob/master/QUICKTOUR)
