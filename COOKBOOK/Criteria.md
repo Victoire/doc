@@ -1,29 +1,26 @@
 
-# Comment créer un nouveau critère de personnalisation de contenu (custom content)
+# Créer un nouveau critère de personnalisation de contenu _(criteria)_
 
 ## Utilisation de l'objet DataSource
 
-Le système de critères de Victoire repose sur l'objet [*DataSource*](https://github.com/victoire/victoire/Bundle/CriteriaBundle/DataSource/RequestDataSource.php) dont le rôle est de fournir :
+Le système de critères de Victoire repose sur l'objet [*DataSource*](https://github.com/Victoire/victoire/blob/master/Bundle/CriteriaBundle/DataSource/RequestDataSource.php) dont le rôle est de fournir :
 
 - des méthodes qui retournent la valeur qui sert de filtre.
 - des paramètres de formulaire qui seront utilisés dans la modale des widgets
 
 ## Etude de cas
 
-La version standard de Victoire inclut 2 types de fitres que l'on peut étudier à titre d'exemple :
+Victoire inclut de base 2 types de fitres :
 
 - un filtre sur la locale (ou language courant) : `_locale`
 - un filtre sur le protocole : `scheme` http | https
 
+Nous allons étudier le filtre sur la locale à titre d'exemple.
 
 ```php
 #Victoire\Bundle\CriteriaBundle\DataSource
-<?php
 
-namespace Victoire\Bundle\CriteriaBundle\DataSource;
-
-use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
-use Symfony\Component\HttpFoundation\RequestStack;
+[...]
 
 class RequestDataSource
 {
@@ -50,10 +47,7 @@ class RequestDataSource
         return $this->requestStack->getCurrentRequest()->getLocale();
     }
 
-    public function getScheme()
-    {
-        return $this->requestStack->getCurrentRequest()->getScheme();
-    }
+[...]
 
     public function getLocaleFormParams()
     {
@@ -65,18 +59,8 @@ class RequestDataSource
         ];
     }
 
-    public function getSchemeFormParams()
-    {
-        return [
-            'type'    => ChoiceType::class,
-            'options' => [
-                'choices' => [
-                    'http'  => 'http',
-                    'https' => 'https',
-                ],
-            ],
-        ];
-    }
+[...]
+
 }
 ```
 
@@ -85,12 +69,16 @@ class RequestDataSource
 
 ## Créer un nouveau critère de personnalisation de contenu
 
-Pour cela, il faut donc créer un nouvel objet "DataSource" implémentant chacune des 2 méthodes :
+### 1. Création de l'objet "DataSource"
+
+Créer un nouvel obket "DataSource" qui implémente chacune des 2 méthodes :
 
 - "getXxx" : définit la valeur Xxx servant de filtre
 - "getXxxFormParams" : définit le formulaire intégrant les différentes variables possibles de la valeur Xxx
 
-Pour que cet objet soit reconnu par Victoire comme un _Critère_, il faut le déclarer en tant que service [dans ce fichier](http://github.com/victoire/victoire/Bundle/CriteriaBundle/Resources/config/services.yml) avec le tag suivant :
+### 2. Déclaration de l'objet
+
+Pour qu'il soit reconnu par Victoire comme un nouveau *critère*, il faut le déclarer en tant que service avec le tag suivant :
 
     tags:
         - { name: victoire_criteria, group: yyy, method: getXxx, alias: xxx }
@@ -98,5 +86,3 @@ Pour que cet objet soit reconnu par Victoire comme un _Critère_, il faut le dé
 
 Le tag propose d'associer un `group` au critère.
 Ce groupe est utilisé pour afficher les différents critères par section. Vous êtes libres d'utiliser un groupe déjà existant ou d'en créer un nouveau.
-
-Enfin, n'oubliez pas de réaliser les traductions des variables dans le [fichier de ressources](http://github.com/victoire/victoire/Bundle/CriteriaBundle/Resources/translations/)
