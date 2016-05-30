@@ -31,6 +31,6 @@ Si vous voulez aider mais que vous ne savez pas trop quelle tâche prendre, vous
 
 ## Workflow
 
-L'équipe Core de Victoire travaille sur le ou les prochains Milestones et effectue ses Pull Request vers la branche `master`. Quand ces développements seront finalisés, une version majeure sera tagguée => `1.X.0`.
+L'équipe Core de Victoire travaille sur le ou les prochains Milestones et effectue ses Pull Request vers la branche `master`. Quand ces développements seront finalisés, une version mineure sera tagguée => `1.X.0`.
 
-Toute nouvelle fonctionnalité, amélioration ou correctif développé en dehors d'un milestone, par la communauté ou par l'équipe CORE doit faire l'objet d'une Pull Request vers les branches supportées, la branche la plus récente et la LTS le cas échéant.
+Toute nouvelle fonctionnalité, amélioration ou correctif développé en dehors d'un milestone, par la communauté ou par l'équipe CORE doit faire l'objet d'une Pull Request vers les branches supportées, la branche la plus récente et la LTS le cas échéant. Une version de patch sera alors tagguée => `0.0.X`. Ces modifications seront récupérées lors de la création de la release mineure suivante => `1.X.0`.
