@@ -71,6 +71,8 @@ class RequestDataSource
 
 ## Créer un nouveau critère de personnalisation de contenu
 
+### A. Utilisation du BaseDataSourceProxy
+
 La solution la plus simple pour créer un Critère est de définir n'importe quel object de votre application comme utilisable en tant que Critère.
 Pour cela, il faut tagger l'object en question de la façon suivante:
 ```
@@ -90,7 +92,7 @@ Voici la procédure pour créer un DataSource personnalisé.
 
 #### 1. Création de l'objet "DataSource"
 
-Créer un nouvel obket "DataSource" qui implémente chacune des 2 méthodes :
+Créer un nouvel objet "DataSource" qui implémente chacune des 2 méthodes :
 
 - "getXxx" : définit la valeur Xxx servant de filtre
 - "getXxxFormParams" : définit le formulaire intégrant les différentes variables possibles de la valeur Xxx
