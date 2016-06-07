@@ -74,6 +74,7 @@ Le Hamburger Menu est situé tout en haut à gauche de votre écran lorsque vous
 
 ### Blog
 
+La fonctionnalité "Blog" a pour objectif de permettre à l'utilisateur de créer et gérer facilement un blog depuis son back office.
 
 
 ### Plan du site
