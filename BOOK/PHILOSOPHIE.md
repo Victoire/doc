@@ -28,3 +28,31 @@ Cela permet au développeur de se concentrer sur des fonctionnalités importante
 
 L'usage dynamique des données au travers de requêtes spécifiques permet de créer en une seconde une page cohérente et respectueuse du front du site ayant une valeur ajoutée très forte pour l'utilisateur final.
 De même, la personnalisation de contenu rend possible de différencier un même site en fonction de critères stratégiques, et ainsi délivrer un message différent.
+
+## Les valeurs que porte Victoire
+
+Victoire est le reflet des valeurs que nous souhaitons défendre et transmettre au sein de l’agence Troopers à savoir la liberté, le respect, l’innovation, la transparence, l’entraide et le partage.
+
+* La liberté
+
+Il est important à nos yeux d’encourager la prise de risque en donnant des responsabilités à chaque membre de l’agence et en lui permettant de travailler librement dans une structure où les termes “hiérarchie”, “contrôle” et “surveillance” ont été bannis du vocabulaire.
+
+* Le respect
+
+La tolérance envers chaque membre de l’agence est une valeur primordiale pour que chacun puisse s’épanouir professionnellement en se sentant écouté et respecté.
+
+* L’innovation
+
+L’innovation est au coeur de chacun de nos projets et c’est d’ailleurs de cette dynamique ambitieuse - conjuguée à notre grande soif de challenge - que notre CMS Victoire est né.
+
+* La transparence
+
+Afin de garantir une relation de confiance à nos partenaires et collaborateurs, nous adoptons une entière transparence sur notre façon de travailler et sur notre travail.
+
+* L’entraide
+
+A l’image de notre CMS en Open Source où des contributeurs extérieurs peuvent apporter leur expérience et expertise à l’évolution de Victoire, nous pensons sincèrement que l’entraide est la clé pour créer de la synergie et ainsi optimiser nos réalisations.
+
+* Le partage
+
+Victoire fut un travail de longue haleine où chaque membre de l’équipe a apporté sa pierre à l’édifice et a contribué à sa réussite. C’est de notre capacité à s’écouter, à travailler en équipe et à partager que nous réussissons dans nos projets.

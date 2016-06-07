@@ -44,9 +44,15 @@ L'équipe Core de Victoire travaille sur le ou les prochains Milestones et effec
 
 Toute nouvelle fonctionnalité, amélioration ou correctif développé en dehors d'un milestone, par la communauté ou par l'équipe CORE doit faire l'objet d'une Pull Request vers les branches supportées, la branche la plus récente et la LTS le cas échéant. Une version de patch sera alors tagguée => `0.0.X`. Ces modifications seront récupérées lors de la création de la release mineure suivante => `1.X.0`.
 
-## Nouvelle release
+## Road Map
+
+Victoire étant un DCMS Open Source cela signifie qu’il est gratuit et que tout le monde peut avoir accès au code source et le modifier. De cette façon, notre CMS se base sur une importante communauté de développeurs et d’utilisateurs qui font évoluer le logiciel grâce à l’addition de nouveaux modules.
+
+Pour permettre aux utilisateurs et / ou contributeurs d’avoir une vision de l’état d’avancement de Victoire, nous mettons à disposition une road map chargée de détailler les futures fonctionnalités prévues ainsi que les mises à jour - regroupées dans un planning.
 
 Si des dépendances de Composer sont modifiées, ajouter une note dans le fichier [`composer.md`](https://github.com/victoire/victoire/blob/2.2/composer.md).
+
+## Nouvelle release
 
 ### CHANGELOG.md
 
