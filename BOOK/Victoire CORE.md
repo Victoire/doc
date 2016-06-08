@@ -16,9 +16,7 @@ Ainsi si vous souhaitez créer un modèle de page “base” qui comprendra par 
 
 ### Paramètres de page
 
-Les paramètres de page servent à modifier l’intitulé de votre page, sa page parente*, son modèle de page, son état de publication et enfin l’URL à laquelle vous souhaitez qu’elle apparaisse.
-
-Cf : partie Hamburger menu > Blog > Créer son blog
+Les paramètres de page servent à modifier l’intitulé de votre page, [sa page parente] (https://github.com/Victoire/documentation-fr/tree/master/LEXIQUE), son modèle de page, son état de publication et enfin l’URL à laquelle vous souhaitez qu’elle apparaisse.
 
 ### SEO
 

@@ -2,7 +2,7 @@
 
 ## Définition du DCMS Victoire
 
-Depuis 2013, notre agence a développé une solution basée sur le framework Open Source Symfony2 appelée Victoire et destinée à la conception de sites web. Victoire est un DCMS qui intègre toutes les fonctionnalités de base d’un CMS comme Wordpress à la différence que sa structure a été conçue pour rendre possible la manipulation de données dynamiques. Ces données dynamiques appelées “Objets métiers”* sont désormais accessibles à tout éditeur grâce à Victoire et ce sans devoir rentrer dans le code source du site. Victoire est donc un Dynamic CMS.
+Depuis 2013, notre agence a développé une solution basée sur le framework Open Source Symfony2 appelée Victoire et destinée à la conception de sites web. Victoire est un DCMS qui intègre toutes les fonctionnalités de base d’un CMS comme Wordpress à la différence que sa structure a été conçue pour rendre possible la manipulation de données dynamiques. Ces données dynamiques appelées [Objets métiers] (https://github.com/Victoire/documentation-fr/tree/master/LEXIQUE) sont désormais accessibles à tout éditeur grâce à Victoire et ce sans devoir rentrer dans le code source du site. Victoire est donc un Dynamic CMS.
 
 L’enjeu avec la création de Victoire est de ne pas se cantonner à la simple gestion de contenus (texte, image, liste, etc.) mais de permettre à nos partenaires de créer du contenu s’appuyant sur des données dynamiques tout en s’affranchissant des contraintes techniques habituelles, et donc sans aucun pré-requis de notions en développement.
 

@@ -8,9 +8,7 @@ Pour vous aider à maîtriser tous les concepts et termes liés à Victoire.
 
 - Business Entity
 
-Les Business Entities représentent les éléments fondamentaux à chaque projet créé sur Victoire. Leur intégration représente d’ailleurs la majeure étape de conception de votre site puisqu’ils vont permettre de contenir et traduire vos données dynamiques, c’est-à-dire vos “Objets métiers”.
-
-Contrairement à un CMS classique qui est limité dans son exploitation, la particularité de Victoire est de se définir comme un CMS qui s’adapte aux besoins du client - et non l’inverse - grâce à son aspect modulable.
+Les Business Entities permettent de contenir et de traduire vos données dynamiques, c'est-à-dire vos objets métiers. Contrairement à un CMS classique qui est limité dans son exploitation, la particularité de Victoire réside dans l'intégration de ces Business Entities qui permettent à Victoire de s'adapter aux besoins du client - et non l’inverse - grâce à son aspect modulable.
 
 Si jamais cette explication vous semble trop abstraite, prenons un exemple plus concret :
 
@@ -45,3 +43,7 @@ Les données métiers représentent les entités fondamentales à un domaine d�
 - Front-End Edition
 
 Le Front-end Edition est un mode qui permet au client de modifier l’interface de son site en direct. Sur le CMS Victoire cela se traduit par exemple par l’agencement de 4 modes (aperçu, création, édition, style) situés en bas de l’écran qui permettent de visualiser directement les changements que l’on souhaite opérer et d’avoir un aperçu du rendu final en temps réel.
+
+- Page parente
+
+La page parente va servir à hiérarchiser vos pages en définissant quelle page est parente d'une page enfant. Concrètement, cela signifie que si vous créez une page "Livres" et que vous la mettez parente d'une autre page "Livres pour enfants" cela s'écrira http://tonnomdesite.com/livres/livres-pour-enfants. Attention tout de même à bien manipuler cette fonction car certaines modifications sur la page parente entrainent des modifications automatiques sur la page enfant.
