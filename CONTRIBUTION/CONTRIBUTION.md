@@ -44,4 +44,20 @@ L'équipe Core de Victoire travaille sur le ou les prochains Milestones et effec
 
 Toute nouvelle fonctionnalité, amélioration ou correctif développé en dehors d'un milestone, par la communauté ou par l'équipe CORE doit faire l'objet d'une Pull Request vers les branches supportées, la branche la plus récente et la LTS le cas échéant. Une version de patch sera alors tagguée => `0.0.X`. Ces modifications seront récupérées lors de la création de la release mineure suivante => `1.X.0`.
 
+## Nouvelle release
 
+### CHANGELOG.md
+
+Pour la génération du fichier CHANGELOG.md, nous utilisons le repo [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator).
+
+- [Créez-vous un token](https://github.com/settings/tokens) et récupérez-le
+- mettez-à jour le fichier en exécutant cette commande
+
+```
+github_changelog_generator -t YOURTOKEN --future-release X.Y.Z
+```
+
+### UPGRADE-X.Y.md
+
+Le fichier UPGRADE-X.Y.md permet de connaitre les opérations à effectuer afin de mettre à jour un projet.
+Toute nouvelle version majeure et mineur doit logiquement faire l'objet de création ou d'ajout dans ce fichier.
