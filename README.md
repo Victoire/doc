@@ -26,5 +26,5 @@ Pour vous aider à maîtriser tous les concepts et termes liés à Victoire.
 ## [Cookbook](https://github.com/Victoire/documentation-fr/blob/master/COOKBOOK)
 Retrouvez différentes recettes pour vous aider dans les différentes étapes liées à l'usage de Victoire DCMS par les développeurs.
 
-## [Guide du contributeur](https://github.com/Victoire/documentation-fr/blob/master/CONTRIBUTION/CONTRIBUTION.md)
+## [Guide du contributeur](https://github.com/Victoire/documentation-fr/tree/master/CONTRIBUTION)
 
