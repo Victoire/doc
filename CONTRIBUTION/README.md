@@ -46,7 +46,7 @@ Toute nouvelle fonctionnalité, amélioration ou correctif développé en dehors
 
 ## Nouvelle release
 
-Si des dépendances de Composer sont modifiées, ajouter une note dans le fichier [`composer.md`](https://github.com/alexislefebvre/victoire/blob/2.2/composer.md).
+Si des dépendances de Composer sont modifiées, ajouter une note dans le fichier [`composer.md`](https://github.com/victoire/victoire/blob/2.2/composer.md).
 
 ### CHANGELOG.md
 
