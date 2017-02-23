@@ -1,4 +1,4 @@
-# Bienvenue sur la documentation du DCMS Victoire
+# Bienvenue sur la documentation du CMS Victoire
 #
 -----
 ##### _Préambule_
