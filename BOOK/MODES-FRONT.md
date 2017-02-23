@@ -1,4 +1,4 @@
-Modes
+Les modes en front-end
 ===================
 
 
