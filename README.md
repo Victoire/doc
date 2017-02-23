@@ -15,10 +15,59 @@ Démarrez rapidement avec le Quick Tour de Victoire DCMS :
 - Friends Of Victoire - widgets
 
 ## [Book](https://github.com/Victoire/documentation-fr/blob/master/BOOK)
-Plongez-vous dans Victoire DCMS avec les guides thématiques :
+Plongez-vous dans notre CMS Victoire avec un guide d'utilisation complet :
 
-- Philosophie de Victoire
-- Bien commencer avec Victoire
+####Introduction
+Qui est Victoire ? 
+Pourquoi Victoire est différent ?
+Qui peut utiliser Victoire ?
+10 raisons d’utiliser Victoire
+
+####Log in / Log out
+Se connecter à son site
+
+####Menus de navigation
+Découverte du hamburger menu
+Découverte de la barre de navigation
+
+####Modes
+À quoi sert le mode aperçu ? 
+À quoi sert le mode création ?
+À quoi sert le mode édition ?
+À quoi sert le mode style ?
+
+####Mode création
+Titre 
+Image
+Bouton 
+Colonnes 
+Liens sociaux 
+Formulaire 
+Liste d’articles
+Barre de partage
+Slider
+Onglet
+Mailchimp newsletter
+
+####Mode style
+Découverte du mode style
+
+####Blog
+Comment créer un blog ? 
+Comment gérer son blog ?
+Comment créer un article ?
+
+####SEO
+Comment optimiser ses balises ? 
+Comment régler ses paramètres Open Graph ?
+Comment régler ses balises Index et Follow ?
+Comment régler les paramètres du plan du site  ?
+
+####Cookbook
+Comment créer un modèle de page ?
+Comment traduire mon site en anglais ? 
+Comment optimiser mes images ?
+
 
 ## [Lexique](https://github.com/Victoire/documentation-fr/blob/master/LEXIQUE)
 Pour vous aider à maîtriser tous les concepts et termes liés à Victoire.
