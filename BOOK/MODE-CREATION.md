@@ -41,6 +41,8 @@ Les mots clés que vous définissez au sein de cette balise vont vous permettre 
 
 Si vous souhaitez ajouter des boutons ou “call to action” sur vos pages, il vous suffit de définir le libellé de votre bouton, sa taille, son style et le lien vers lequel il renvoie.
 
+![Widget Bouton](http://i.imgur.com/qZNx9iA.png)
+
 Voici tout de même quelques informations supplémentaires :
 
 ###Libellé
