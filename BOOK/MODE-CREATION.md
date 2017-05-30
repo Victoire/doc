@@ -8,7 +8,7 @@ En cliquant dessus vous allez pouvoir **intégrer le widget** que vous souhaitez
 
 ##Titre
 
-![enter image description here](http://i.imgur.com/AzdvcYC.png)
+![Widget Titre](http://i.imgur.com/Di2kS4g.png)
 
 Lorsque vous souhaitez créer un titre, il vous suffit d’écrire votre titre dans la zone de texte puis de définir deux critères :
 
