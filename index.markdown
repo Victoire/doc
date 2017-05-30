@@ -23,20 +23,20 @@ Pourquoi Victoire est différent ?
 Qui peut utiliser Victoire ?
 10 raisons d’utiliser Victoire
 
-####Log in / Log out
+#### Log in / Log out
 Se connecter à son site
 
-####Menus de navigation
+#### Menus de navigation
 Découverte du hamburger menu
 Découverte de la barre de navigation
 
-####Modes
+#### Modes
 À quoi sert le mode aperçu ? 
 À quoi sert le mode création ?
 À quoi sert le mode édition ?
 À quoi sert le mode style ?
 
-####Mode création
+#### Mode création
 Titre 
 Image
 Bouton 
@@ -49,21 +49,21 @@ Slider
 Onglet
 Mailchimp newsletter
 
-####Mode style
+#### Mode style
 Découverte du mode style
 
-####Blog
+#### Blog
 Comment créer un blog ? 
 Comment gérer son blog ?
 Comment créer un article ?
 
-####SEO
+#### SEO
 Comment optimiser ses balises ? 
 Comment régler ses paramètres Open Graph ?
 Comment régler ses balises Index et Follow ?
 Comment régler les paramètres du plan du site  ?
 
-####Cookbook
+#### Cookbook
 Comment créer un modèle de page ?
 Comment traduire mon site en anglais ? 
 Comment optimiser mes images ?
