@@ -1,3 +1,8 @@
+---
+layout: page
+title: Bienvenue sur la documentation du CMS Victoire
+---
+
 # Bienvenue sur la documentation du CMS Victoire
 #
 -----
