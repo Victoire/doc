@@ -28,6 +28,8 @@ Il est ainsi tout à fait possible d’avoir un titre dont le niveau hiérarchiq
 
 Pour insérer une image, il vous suffit de l’uploader à l’aide du bouton Choisir. Vous devez ensuite définir sa légende, si l’image renvoie vers un lien et si vous souhaitez qu’un texte s’affiche au survol de la souris d’un internaute.
 
+![Widget Image](http://i.imgur.com/Fsns7vi.png)
+
 Nous vous conseillons également de remplir le champ texte alternatif de l’image - plus connu sous le nom de balise alt.
 
 ###Texte alternatif ou balise alt
