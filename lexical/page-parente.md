@@ -1,0 +1,3 @@
+# Page parente
+
+La page parente va servir à hiérarchiser vos pages en définissant quelle page est parente d'une page enfant. Concrètement, cela signifie que si vous créez une page "Livres" et que vous la mettez parente d'une autre page "Livres pour enfants" cela s'écrira http://tonnomdesite.com/livres/livres-pour-enfants. Attention tout de même à bien manipuler cette fonction car certaines modifications sur la page parente entrainent des modifications automatiques sur la page enfant.

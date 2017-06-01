@@ -12,7 +12,6 @@
 
 .c-header__title {
   position: relative;
-  @include ff--mono(500);
   @include fs--title;
   color: $c__white;
 

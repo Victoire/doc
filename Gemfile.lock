@@ -72,7 +72,7 @@ GEM
     html-pipeline (2.6.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
-    i18n (0.8.1)
+    i18n (0.8.4)
     jekyll (3.4.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -176,7 +176,7 @@ GEM
       ffi (>= 0.5.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
-    sass (3.4.23)
+    sass (3.4.24)
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
@@ -196,7 +196,7 @@ DEPENDENCIES
   github-pages
 
 RUBY VERSION
-   ruby 2.4.0p0
+   ruby 2.4.1p111
 
 BUNDLED WITH
-   1.14.6
+   1.15.0

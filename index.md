@@ -1,82 +1,84 @@
 ---
 layout: page
-title: Bienvenue sur la documentation du CMS Victoire
+title: <p style="text-align:center";>Victoire CMS</p>
 ---
 
 # Bienvenue sur la documentation du CMS Victoire
 
-_Cette documentation est en cours de construction. Si vous souhaitez y voir aborder un sujet précis, n'hésitez pas à créer un ticket **[ICI](https://github.com/Victoire/documentation-fr/issues)**_
+Après plus de 4 ans de travail, nous sommes fiers de vous présenter Victoire : un **CMS Open Source** basé sur le framework **Symfony** et qui s’inscrit comme une réponse sur-mesure aux projets web d’envergure.
 
+Nous avons conçu ce CMS en mettant les attentes et problématiques des utilisateurs au coeur du projet pour vous proposer la solution la plus performante, intuitive et sécurisée possible.
 
-## [Quick Tour](quick-tour)
-Démarrez rapidement avec le Quick Tour de Victoire DCMS :
+[Découvrir Victoire](introduction)
 
-- Vue d’ensemble
-- CMS
-- Dynamic-CMS
-- Personnalisation de contenu
-- Friends Of Victoire - widgets
+>**NB :** Cette documentation est en cours de construction. Si vous souhaitez y voir aborder un sujet précis, n'hésitez pas à créer un ticket **[ICI](https://github.com/Victoire/documentation-fr/issues)**
 
 ## [Book](book)
 Plongez-vous dans notre CMS Victoire avec un guide d'utilisation complet :
 
-#### Introduction
-Qui est Victoire ? 
-Pourquoi Victoire est différent ?
-Qui peut utiliser Victoire ?
-10 raisons d’utiliser Victoire
+### [Introduction](introduction)
+- Qui est Victoire ? 
+- Pourquoi Victoire est différent ?
+- Qui peut utiliser Victoire ?
+- 10 raisons d’utiliser Victoire
 
-#### Log in / Log out
-Se connecter à son site
+### [Se connecter](login)
+- Se connecter à son site
 
-#### Menus de navigation
-Découverte du hamburger menu
-Découverte de la barre de navigation
+### [Menus de navigation](menu-nav)
+- Découverte de la barre de navigation haut
+- Découverte de la barre de navigation bas
 
-#### Modes
-À quoi sert le mode aperçu ? 
-À quoi sert le mode création ?
-À quoi sert le mode édition ?
-À quoi sert le mode style ?
+### [Modes](mode-front)
+- À quoi sert le mode aperçu ? 
+- À quoi sert le mode création ?
+- À quoi sert le mode édition ?
+- À quoi sert le mode style ?
 
-#### Mode création
-Titre 
-Image
-Bouton 
-Colonnes 
-Liens sociaux 
-Formulaire 
-Liste d’articles
-Barre de partage
-Slider
-Onglet
-Mailchimp newsletter
+#### [Mode création](mode-creation)
+- Titre 
+- Image
+- Bouton 
+- Colonnes 
+- Liens sociaux 
+- Formulaire 
+- Liste d’articles
+- Barre de partage
+- Slider
+- Onglet
+- Mailchimp newsletter
 
-#### Mode style
-Découverte du mode style
+#### [Mode style](mode-style)
+- Découverte du mode style
 
-#### Blog
-Comment créer un blog ? 
-Comment gérer son blog ?
-Comment créer un article ?
+### [Blog](blog)
+- Comment créer un blog ? 
+- Comment gérer son blog ?
+- Comment créer un article ?
 
-#### SEO
-Comment optimiser ses balises ? 
-Comment régler ses paramètres Open Graph ?
-Comment régler ses balises Index et Follow ?
-Comment régler les paramètres du plan du site  ?
+### [SEO](seo)
+- Comment optimiser ses balises ? 
+- Comment régler ses paramètres Open Graph ?
+- Comment régler ses balises Index et Follow ?
+- Comment régler les paramètres du plan du site  
 
-#### Cookbook
-Comment créer un modèle de page ?
-Comment traduire mon site en anglais ? 
-Comment optimiser mes images ?
+## [Cookbook](cookbook)
+
+Pour tous :
+
+- [Comment créer un modèle de page ?](how-to-create-template)
+- [Comment traduire mon site en anglais ?](how-to-traduce-website)
+- [Comment optimiser mes images pour le SEO ?](how-to-optimize-images)
+
+Pour les développeurs :
+
+- [Créer un nouveau widget ?](widget-creation)
+- [Surcharger un modèle](override-layout)
+- [Créer un nouveau critère de personnalisation de contenu _(criteria)_](play-with-criterias)
 
 
 ## [Lexique](lexical)
 Pour vous aider à maîtriser tous les concepts et termes liés à Victoire.
-
-## [Cookbook](cookbook)
-Retrouvez différentes recettes pour vous aider dans les différentes étapes liées à l'usage de Victoire DCMS par les développeurs.
 
 ## [Guide du contributeur](contributing)
 

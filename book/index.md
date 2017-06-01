@@ -2,17 +2,20 @@
 book: true
 ---
 
-# BOOK
+# Book
 
-Ces différents chapitres vous permettront de découvrir Victoire DCMS :
+Ces chapitres vont vous permettre de découvrir notre CMS Victoire et son utilisation :
 
 - [Introduction](introduction)
 - [Philosophie de Victoire](concepts)
-- [Blog](blog)
-- [Commands](commands)
-- [Login](login)
-- [Menus-nav](menus-nav)
-- [Les modes en front-end](mode-front)
+- [Se connecter](login)
+- [Menus de navigation](menus-nav)
+- [Modes de gestion](mode-front)
     - [Mode création](mode-creation)
     - [Mode style](mode-style)
+- [Blog](blog)
 - [Seo](seo)
+
+À destination des développeurs :
+
+- [Commandes](commands)

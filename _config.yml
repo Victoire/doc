@@ -21,8 +21,9 @@ baseurl: "/doc" # the subpath of your site, e.g. /blog
 url: "http://victoire.github.io" # the base hostname & protocol for your site
 
 # Social
-githubUsername:
-twitterUsername:
+githubUsername: Victoire
+twitterUsername: Victoirecms
+facebookUsername: victoiredcms
 dribbbleUsername:
 codepenUsername:
 

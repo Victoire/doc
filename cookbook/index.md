@@ -4,10 +4,16 @@ cookbook: true
 
 # Cookbook
 
-Retrouvez différentes recettes pour vous aider dans les différentes étapes liées à l'usage de Victoire DCMS par les développeurs.
+Les cookbooks sont des livres de recettes mis à votre disposition pour vous aider à utiliser Victoire en toute simplicité.
 
+Pour tous :
 
-- [Créer un modèle de page](how-to-create-template)
-- [Créer un nouveau widget](widget-creation)
+- [Comment créer un modèle de page ?](how-to-create-template)
+- [Comment traduire mon site en anglais ?](how-to-traduce-website)
+- [Comment optimiser mes images pour le SEO ?](how-to-optimize-images)
+
+Pour les développeurs :
+
+- [Créer un nouveau widget ?](widget-creation)
 - [Surcharger un modèle](override-layout)
 - [Créer un nouveau critère de personnalisation de contenu _(criteria)_](play-with-criterias)
