@@ -1,26 +1,24 @@
-#Cookbook
+# Cookbook
 
 
-##Comment créer un modèle de page ?
+## Comment créer un modèle de page ?
 
-Pour créer un modèle de page, cliquez sur **Modèle > Nouveau** dans le menu.
+Pour créer un modèle de page, cliquez sur l'**icône fenêtre** ![Modèle de page](http://i.imgur.com/2vkGDEH.png) dans le menu de navigation en bas à droite.
 ______________
 
 ![enter image description here](http://i.imgur.com/xOC6KMB.png)
 
-_______________
 
 Une page s'ouvre alors:
 
-_______________
 
-![enter image description here](http://i.imgur.com/r96inoJ.png)
+![Nouveau modèle](http://i.imgur.com/Vg9npm9.png)
 
 _______________
 
 Vous pouvez renseigner le nom de votre modèle de page, le modèle à partir duquel le créer (exemple : template de base pré-créé par un développeur) et son architecture (est-ce un contenu unique ou un article de blog ?). 
 
-Validez ensuite votre modèle de page en cliquant sur le bouton Créer.
+Validez ensuite votre modèle de page que vous pouvez nommer Test en cliquant sur le bouton Créer.
 Votre modèle de page s’affiche et vous pouvez alors **créer une structure de base** qui se répercutera sur les pages utilisant ce modèle.
 
 >Exemple :
@@ -29,33 +27,31 @@ Votre modèle de page s’affiche et vous pouvez alors **créer une structure de
 >
 >Remplissez alors les champs proposés.
 >________________________
->![enter image description here](http://i.imgur.com/21HNC0f.png)
+>![Exemple slider modèle page](http://i.imgur.com/hy5mPlS.png)
 >________________________
 >Votre slider **s’enregistre automatiquement** sur le modèle de page créé.
 
->Désormais lorsque vous créerez une page en allant dans le menu **Page > Nouvelle page**, vous pourrez choisir de créer cette page à partir du modèle que vous venez de créer ou d’un modèle existant, comme illustré ci-dessous.
+>Désormais lorsque vous créerez une page en cliquant sur l'icône + en haut à droite dans le menu de navigation, vous pourrez choisir de créer cette page à partir du modèle Test que vous venez de créer ou d’un modèle existant, comme illustré ci-dessous.
 >____________________
->![enter image description here](http://i.imgur.com/zI97S1D.png)
+>![Exemple nouvelle page](http://i.imgur.com/KT7MmwF.png)
 >____________________
->Si vous choisissez le modèle que vous venez de créer, votre page s’affichera automatiquement avec les caractéristiques appliqués à ce modèle - c’est-à-dire ici avec le slider en haut de page. Un **gain de temps** non négligeable si vos pages se structurent de la même façon.
+>Si vous choisissez le modèle que vous venez de créer, votre page s’affichera automatiquement avec les caractéristiques appliqués à ce modèle - c’est-à-dire ici avec le slider en haut de page. Cela représente un **gain de temps** non négligeable si plusieurs de vos pages se structurent de la même façon.
 
-##Comment traduire mon site en anglais ?
+## Comment traduire mon site en anglais ?
 
-###Je crée les pages équivalentes
+### Je crée les pages équivalentes
 
 Victoire permet de traduire votre site en plusieurs langues notamment si vous souhaitez **internationaliser** votre produit et / ou service.
 
 Comme cette étape requiert un peu de développement, il est important de nous indiquer au préalable les langues dans lesquelles vous souhaitez traduire votre site.
 
-Il vous suffit ensuite de vous rendre sur la page que vous souhaitez traduire et de cliquer sur **Page > Paramètres** de la page dans le menu.
-
-![enter image description here](http://i.imgur.com/TeAbjUQ.png)
+Il vous suffit ensuite de vous rendre sur la page que vous souhaitez traduire et de cliquer sur l'**icône Paramètres** ![enter image description here](http://i.imgur.com/o6ybuwt.png) de la page dans le menu de navigation bas.
 
 >**NB :** Pour notre exemple, la page initialement créée est en français dans l’onglet FR et nous souhaitons la traduire en anglais dans l’onglet EN. 
 >
 >Néanmoins si vous souhaitez traduire votre site en italien et en allemand par exemple, vous verrez alors de nouveaux onglets : IT pour italien et DE pour allemand.
 
-![enter image description here](http://i.imgur.com/dAPaQL2.png)
+![Pages équivalentes](http://i.imgur.com/TlvNTnb.png)
 
 Pour créer une page équivalente à celle en français mais en anglais, vous devez alors remplir les champs de l’onglet EN et définir le nom que vous souhaitez donner à votre page ainsi que son URL. Vous remarquez par ailleurs que votre URL est automatiquement modifiée : **le /fr se transforme en /en**.
 
@@ -63,15 +59,27 @@ Nous vous conseillons de conserver les informations préalablement remplies pour
 
 Cliquez sur Mettre à jour et votre page sera créée !
 
-###Je traduis tous mes widgets
+### Je traduis tous mes widgets
 
 Une fois votre page créée en anglais, celle-ci devrait apparaître telle qu’elle existe dans sa langue première (dans notre exemple en français).
 
-Il vous reste alors à traduire en anglais chaque contenu de votre page en cliquant dessus à l’aide du **pinceau**. Pour le site de notre agence Troopers, cela donne :
+Il vous reste alors à traduire en anglais chaque contenu de votre page en cliquant dessus à l’aide du **pinceau** ![icône pinceau](http://i.imgur.com/zRyHZP7.png).
 
-![enter image description here](http://i.imgur.com/AzdvcYC.png)
+> Prenons un exemple : Pour la page d’accueil de notre agence Troopers, lorsque je suis sur la version anglaise à savoir https://troopers.agency/en/ , la page est identique à la version française (https://troopers.agency/fr/).
 
-Comme vous pouvez le voir, en bas de la page se situe **la fonctionnalité Critères**, c’est grâce à elle que vous allez pouvoir traduire vos widgets.
+> Si je souhaite traduire le titre de la page d'accueil par exemple, je passe dans le mode édition à l’aide du pinceau et j'édite mon titre.
+
+> ![Edition titre en anglais](http://i.imgur.com/MpZGVvR.png)
+
+> Sur le côté gauche vous pouvez apercevoir le quantum Dé pour Défaut qui correspond à la version française. Pour traduire le titre en anglais, il vous faut cliquer sur le + en dessous du quantum.
+
+> ![Quantum défaut](http://i.imgur.com/9NRbsZg.png) 
+
+> De ce fait, un nouveau Quantum Dé apparaît en dessous du premier. Vous pouvez alors entrer la traduction de votre texte en anglais.
+
+> ![Texte en anglais](http://i.imgur.com/VIoojVD.png) 
+
+Pour éviter de vous perdre entre vos deux onglets, nous vous conseillons d'appuyer sur le bouton  Comme vous pouvez le voir, en bas de la page se situe **la fonctionnalité Critères**, c’est grâce à elle que vous allez pouvoir traduire vos widgets.
 
 Un premier critère est déjà créé sous le nom Default et correspond au widget en français.
 
@@ -83,13 +91,13 @@ Lorsque vous cliquez sur Mettre à jour, votre widget est alors créé en anglai
 
 > Attention toutefois à bien respecter les modèles de page et à traduire vos objets métiers directement en back office.
 
-##Comment optimiser mes images ?
+## Comment optimiser mes images ?
 
 Si vous tenez un site e-commerce et / ou un blog, il n’est pas rare que vous ayez à intégrer régulièrement des images - que ce soit pour égayer vos articles ou encore pour présenter vos produits ; les **images ont une réelle nécessité**. Et elles sont d’autant plus utiles lorsqu’on prend conscience du potentiel qu’elles représentent en terme de référencement naturel. 
 
 Voici quelques conseils pour vous aider à optimiser vos images :
 
-###Taille — poids — résolution de son image
+### Taille — poids — résolution de son image
 
 
 L’un des critères de performance pris en compte par Google est le **temps de chargement** de votre site, intimement lié au poids de vos images. 
@@ -100,7 +108,7 @@ Nous vous conseillons de définir la taille de vos images selon des formats déj
 
 D’une manière générale, faites attention à ne pas uploader d’image dont le poids est **supérieur à 200-300 Ko** sauf rares exceptions.
 
-###Mots clés d’une image
+### Mots clés d’une image
 
 Lorsque vous intégrer une image sur votre site, il est important que vous vous demandiez ce qu’elle représente et quels mots clés un internaute renseignerait pour trouver cette image sur Google.
 
