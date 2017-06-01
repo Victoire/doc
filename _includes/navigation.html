@@ -1,0 +1,11 @@
+<nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
+  <div class="c-navigation__container u-container">
+    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">Accueil</a>
+    <!--<a class="c-navigation__item {% if page.url == '/articles/' %}is-active{% endif %}" href="{{ "/articles/" | prepend: site.baseurl }}">Articles</a>-->
+    <a class="c-navigation__item {% if page.url == '/quick-tour/' %}is-active{% endif %}" href="{{ "/quick-tour/" | prepend: site.baseurl }}">Apercu</a>
+    <a class="c-navigation__item {% if page.book and page.book == true %}is-active{% endif %}" href="{{ "/book/" | prepend: site.baseurl }}">Book</a>
+    <a class="c-navigation__item {% if page.cookbook and page.cookbook == true %}is-active{% endif %}" href="{{ "/cookbook/" | prepend: site.baseurl }}">Cookbook</a>
+    <a class="c-navigation__item {% if page.url == '/about/' %}is-active{% endif %}" href="{{ "/lexical/" | prepend: site.baseurl }}">Lexique</a>
+    <a class="c-navigation__item {% if page.url == '/contributing/' %}is-active{% endif %}" href="{{ "/contributing/" | prepend: site.baseurl }}">Contribuer</a>
+  </div>
+</nav>
