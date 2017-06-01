@@ -2,6 +2,7 @@
 cookbook: true
 ---
 
+
 # Créer un nouveau critère de personnalisation de contenu _(criteria)_
 
 ## Utilisation de l'objet DataSource

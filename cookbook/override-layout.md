@@ -51,7 +51,20 @@ Parfois, vous aurez besoin de créer un layout spécifique à une partie de votr
 Il faudra créer le fichier et ajouter le markup ou les slots additionnels comme ceci:
 
 ```twig
-
+{% raw %}
+{# app/Resources/VictoireCoreBundle/Layout/myUserspaceLayout.html.twig #}
+{% extends 'VictoireCoreBundle:Layout:layout.html.twig' %}
+{% block body_header %}
+<header>
+    <div id="header-logo">
+        {{ cms_slot_widgets('header_logo', {'availableWidgets': ['Image'], max: 1}) }}
+    </div>
+    <div id="header-menu">
+        {{ cms_slot_widgets('header_menu', {'availableWidgets': ['Menu'], max: 1}) }}
+    </div>
+</header>
+{% endblock body_header %}
+{% endraw %}
 ```
 
 puis il faudra le déclarer dans la configuration de victoire_core:

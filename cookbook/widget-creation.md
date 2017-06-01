@@ -44,6 +44,7 @@ Dans le fichier Widget, il faut :
 
 ## Heritage
 On peut indiquer le niveau de hiérarchie des widgets, qui récupère les infos d’autres widgets
+
 ## Créer un nouveau thème
 - Créer un nouveau dossier au nom du widget Bundle dans `app/ressources`
 - Créer un dossier `views`

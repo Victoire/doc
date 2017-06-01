@@ -4,9 +4,13 @@ book: true
 
 # Mode création
 
-Le mode création se situe en bas de votre écran en 2ème place dans le menu.
+Le mode création se situe en bas de votre écran en 1ère place dans le menu.
+
+![Mode création](http://i.imgur.com/iNhnpQg.png)
 
 Lorsque vous cliquez dessus, vous voyez alors apparaître l’espace “Nouveau contenu” sur votre page. 
+
+![Mode création](http://i.imgur.com/u1XZr7B.png)
 
 En cliquant dessus vous allez pouvoir **intégrer le widget** que vous souhaitez : un titre, un bouton, une image, un formulaire, une liste d’articles, vos liens sociaux, etc.
 
@@ -30,7 +34,9 @@ Il est ainsi tout à fait possible d’avoir un titre dont le niveau hiérarchiq
 
 ## Image
 
-Pour insérer une image, il vous suffit de l’uploader à l’aide du bouton Choisir. Vous devez ensuite définir sa légende, si l’image renvoie vers un lien et si vous souhaitez qu’un texte s’affiche au survol de la souris d’un internaute.
+Pour insérer une image, il vous suffit de l’uploader à l’aide du bouton Choisir. Vous devez ensuite définir son texte alternatif, sa légende (optionnel), si l’image renvoie vers un lien et si vous souhaitez qu’un texte s’affiche au survol de la souris d’un internaute.
+
+![Widget Image](http://i.imgur.com/Fsns7vi.png)
 
 ![Widget Image](http://i.imgur.com/Fsns7vi.png)
 
@@ -70,6 +76,8 @@ Si vous cochez cette case, cela signifie que le texte que vous avez mis dans le 
 
 Exemple ci-dessous :
 
+![Widget Bouton](http://i.imgur.com/d27qztC.png)
+
 ## Colonnes
 
 Si vous souhaitez créer des colonnes à un endroit de votre page, il vous suffit de sélectionner le nombre de colonnes que vous souhaitez selon plusieurs propositions mises à disposition. En voici quelques exemples :
@@ -80,13 +88,15 @@ Si vous souhaitez créer des colonnes à un endroit de votre page, il vous suffi
 > 
 > **50 % - 50 %** : cela signifie que votre contenu sera divisé en deux parties de même taille. Et ainsi de suite pour les autres propositions de colonnes.
 
+![Widget Colonnes](http://i.imgur.com/1G34ZJw.png)
+
 ### Conteneur centré
 
 Une case Conteneur centré vous est proposée pour que vos colonnes soient créées au sein d’un conteneur, qui restera centré peu importe le device utilisé.
 
 Nous conseillons de créer vos contenus en constituant au préalable 1 colonne et en cochant la case Conteneur centré. Cela va permettre d’ajouter des marges à votre contenu pour une **meilleure lisibilité** - comme ci-dessous :
 
-![enter image description here](http://i.imgur.com/IZlw98d.png)
+![Conteneur centré](http://i.imgur.com/IZlw98d.png)
 
 ### Mise en application
 
@@ -94,12 +104,12 @@ Une fois vos colonnes créées, vous devez voir apparaître les champs Nouveau c
 
 Par exemple, en créant deux colonnes au format 50 % - 50 %, j’obtiens :
 
-![enter image description here](http://i.imgur.com/jZT0Jlc.png)
+![exemple création colonnes](http://i.imgur.com/cD5v3HZ.png)
 
 
 Il suffit ensuite d’ajouter le contenu souhaité dans ces champs tels qu’un titre, une image, une barre de partage, etc. Voici un exemple avec deux images :
 
-![enter image description here](http://i.imgur.com/udZWcOo.png)
+![Exemple](http://i.imgur.com/7a4cSg4.png)
 
 ## Liens sociaux
 
@@ -107,7 +117,7 @@ Pour faire apparaître un lien vers vos réseaux sociaux, sélectionnez le widge
 
 Vous avez alors la possibilité d’intégrer des liens sociaux qui renvoient vers votre blog, votre page facebook, votre compte Google +, votre profil Linkedin ou encore vers Flickr, Github, Instagram, Periscope, Pinterest, Twitter, Viadeo, Youtube, etc.
 
-![enter image description here](http://i.imgur.com/tdO1SZ1.png)
+![Liens sociaux](http://i.imgur.com/TnkITf3.png)
 
 
 > **Exemple :** Vous souhaitez intégrer un lien vers votre page facebook sur votre site.
@@ -116,7 +126,7 @@ Vous avez alors la possibilité d’intégrer des liens sociaux qui renvoient ve
 > 
 > Ajoutez ensuite l’URL de votre page et choisissez Facebook dans Type pour définir le type de lien social que vous avez créé - et ainsi définir l'icône qui apparaîtra. Vous devez alors obtenir ceci :
 > 
-> ![enter image description here](http://i.imgur.com/cA5Bk0B.png)
+> ![Liens sociaux facebook](http://i.imgur.com/cA5Bk0B.png)
 
 ## Formulaire
 
@@ -128,11 +138,13 @@ Vous pouvez également ajouter un icône sur le bouton du formulaire mais ce n�
 
 Dans l’encart gris du formulaire, vous pouvez ajuster les paramètres suivants :
 
-###Action au succès
+> ![Formulaire](http://i.imgur.com/BS99pTe.png)
+
+### Action au succès
 
 Lorsqu’un internaute a rempli correctement votre formulaire, il est important de l’informer que ses réponses ont bien été prises en compte. Cela évite Deux propositions vous sont faites : vous pouvez notifier l’internaute que ses réponses ont bien été envoyées ou bien vous pouvez le rediriger vers une page. 
 
-###Adresse de réception des données du formulaire
+### Adresse de réception des données du formulaire
 
 L’adresse que vous renseignez dans ce champ est celle vers laquelle vous souhaitez recevoir les réponses au formulaire. Attention donc de bien renseigner une adresse mail valide dont vous vous servez régulièrement.
 
@@ -156,11 +168,11 @@ Pour cela, il vous faut spécifier le nombre maximum d’articles à afficher, l
 
 Si vous souhaitez inciter vos lecteurs à partager vos contenus comme vos articles de blog, il peut être utile d’intégrer une barre de partage comme ci-dessous :
 
-![enter image description here](http://i.imgur.com/Iayf9V3.png)
+![enter image description here](http://i.imgur.com/fZsPTQI.png)
 
 Pour la créer, rendez-vous sur l’outil Création > Nouveau contenu > Barre de partage. Vous arrivez alors sur cette fenêtre :
 
-![enter image description here](http://i.imgur.com/i7q67GB.png)
+![enter image description here](http://i.imgur.com/HInZWg6.png)
 
 Vous devez ensuite cocher les réseaux sociaux qui vont composer votre barre de partage (Facebook, Twitter, Linkedin, Google +, Pinterest, etc.) et choisir quelle page / URL devra être partagée lorsqu’un internaute cliquera sur la barre de partage.
 
