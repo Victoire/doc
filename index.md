@@ -8,7 +8,7 @@ title: Bienvenue sur la documentation du CMS Victoire
 _Cette documentation est en cours de construction. Si vous souhaitez y voir aborder un sujet précis, n'hésitez pas à créer un ticket **[ICI](https://github.com/Victoire/documentation-fr/issues)**_
 
 
-## [Quick Tour](/quick-tour)
+## [Quick Tour](quick-tour)
 Démarrez rapidement avec le Quick Tour de Victoire DCMS :
 
 - Vue d’ensemble
@@ -17,7 +17,7 @@ Démarrez rapidement avec le Quick Tour de Victoire DCMS :
 - Personnalisation de contenu
 - Friends Of Victoire - widgets
 
-## [Book](/book)
+## [Book](book)
 Plongez-vous dans notre CMS Victoire avec un guide d'utilisation complet :
 
 #### Introduction
@@ -72,11 +72,11 @@ Comment traduire mon site en anglais ?
 Comment optimiser mes images ?
 
 
-## [Lexique](/lexical)
+## [Lexique](lexical)
 Pour vous aider à maîtriser tous les concepts et termes liés à Victoire.
 
-## [Cookbook](/cookbook)
+## [Cookbook](cookbook)
 Retrouvez différentes recettes pour vous aider dans les différentes étapes liées à l'usage de Victoire DCMS par les développeurs.
 
-## [Guide du contributeur](/contributing)
+## [Guide du contributeur](contributing)
 
