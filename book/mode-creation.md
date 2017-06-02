@@ -186,7 +186,7 @@ Vous pouvez ensuite ajouter un élément au slider et définir son image, son ti
 
 Une fois votre choix arrêté, vous pouvez cocher l’élément “Lecture automatique” et définir la durée de chaque slide en millisecondes. De cette façon, votre slider défilera automatiquement sans que l’internaute n’ait à cliquer sur les flèches.
 
-![enter image description here](http://i.imgur.com/xly6LBD.png)
+![Widget slider](http://i.imgur.com/EpcHpON.png)
 
 Il ne vous reste plus qu’à insérer les images que vous souhaitez faire apparaître dans votre slider à l’aide du bouton “ajouter un élément”, et d’y insérer ou non des liens.
 
@@ -204,7 +204,7 @@ En cliquant sur le deuxième onglet appelé Projet 2, un nouveau contenu s’aff
 
 Pour ce faire, cliquez sur le widget Onglet puis ajoutez le titre de vos onglets en cliquant sur Ajouter un nouvel élément comme dans l’exemple ci-dessous :
 
-![enter image description here](http://i.imgur.com/mDVnHso.png)
+![Widget onglet](http://i.imgur.com/HRDe81r.png)
 
 Une fois vos onglets créés, il ne vous reste plus qu’à créer le contenu spécifique à chacun de ces onglets en cliquant sur le champ Nouveau contenu juste en-dessous de votre onglet :
 
@@ -220,6 +220,6 @@ Notez toutefois que ce widget nécessite une configuration au préalable par un 
 
 >**NB :** Si vous êtes sur une autre plateforme que Mailchimp, merci de le spécifier au développeur ou à l’agence en charge de votre site pour qu’il puisse adapter ce widget.
 
-![enter image description here](http://i.imgur.com/JIKdrX1.png)
+![Widget Mailchimp](http://i.imgur.com/NVjdVFq.png)
 
 Une fois la fenêtre ouverte, vous pouvez déterminer le libellé du bouton, son icône, le message de succès lorsque l’internaute a finalisé son inscription à votre newsletter ou encore les libellés et valeurs indicatives des champs de votre formulaire tels que l’adresse mail, le nom et prénom, etc.

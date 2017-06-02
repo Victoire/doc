@@ -14,6 +14,6 @@ Pour tous :
 
 Pour les développeurs :
 
-- [Créer un nouveau widget ?](widget-creation)
+- [Créer un nouveau widget](widget-creation)
 - [Surcharger un modèle](override-layout)
 - [Créer un nouveau critère de personnalisation de contenu _(criteria)_](play-with-criterias)

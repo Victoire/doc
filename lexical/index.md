@@ -10,15 +10,11 @@ Voici quelques définitions pour vous aider à maîtriser tous les concepts et t
 
 - [Business Template](business-template)
 
-- Business Property
+- [Business Property](business-property)
 
 - Quantum
 
-- [Widget(s)](widgets)
-
-- Vic Annotations
-
-- Critère
+- [Widget](widgets)
 
 - [Données métiers ou objets métiers](objets-metiers)
 

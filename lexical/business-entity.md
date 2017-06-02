@@ -1,7 +1,19 @@
 # Business Entity
 
-Les Business Entities permettent de contenir et de traduire vos données dynamiques, c’est-à-dire vos objets métiers. Contrairement à un CMS classique qui est limité dans son exploitation, la particularité de Victoire réside dans l’intégration de ces Business Entities qui permettent à Victoire de s’adapter aux besoins du client - et non l’inverse - grâce à son aspect modulable.
+***Pour les développeurs :***
 
-Si jamais cette explication vous semble trop abstraite, prenons un exemple plus concret :
+Une business entity est un objet de type entity qui pourra être directement utilisé et manipulé dans Victoire.
 
-Si vous tenez un site pour vendre des fruits et légumes frais alors vos objets métiers - c’est-à-dire l’essence même de votre activité - seront donc les fruits et légumes frais. Imaginons que votre souhait en tant que client soit de disposer d’un site vitrine qui présente les fruits et légumes disponibles dans votre magasin, en tenant compte de la saisonnalité des produits. Un CMS classique comme Wordpress vous permettra d’afficher des photos de fruits et légumes frais, ponctuées de descriptions. Cependant, une fois la saison finie, il vous faudra changer manuellement vos fiches produits pour garantir à vos clients des aliments frais. Le CMS Victoire lui, permet de traiter des données dynamiques. Cela signifie que plutôt que de devoir changer manuellement les fruits et légumes selon chaque saison, il vous suffira d’installer une business entitie photos et de la configurer pour qu’elle affiche sur votre site UNIQUEMENT les produits de chaque saison et ce, automatiquement. En d’autres termes, une solution rudement plus facile avec un gain de temps non négligeable et surtout la garantie d’un site constamment à jour.
+ ***Pour les utilisateurs :***
+
+Une business entity permet de contenir et de traduire vos données dynamiques, c’est-à-dire vos [objets métiers](objets-metiers). Ces objets métiers peuvent ainsi être représentés sous forme de listes, de photos, etc.
+
+*Prenons un exemple :*
+
+Vous tenez un site e-commerce de fruits et légumes frais ; vos objets métiers sont ainsi représentés par les fruits, les légumes, les clients ou encore les saisons.
+
+Vous souhaitez que votre site affiche les fruits et légumes disponibles, en tenant compte de la saisonnalité des produits. Plutôt que de changer vos fruits et légumes manuellement chaque mois - une tâche fastidieuse - vous pouvez installer et configurer une business entity liste qui affichera UNIQUEMENT les produits de chaque saison.
+
+Cela représente un **gain de temps** non négligeable et surtout la garantie d'un **site constamment mis à jour**.
+
+>**NB :** Une business entity est forcément un objet métier, en revanche un objet métier peut ne pas être défini comme une business entity.

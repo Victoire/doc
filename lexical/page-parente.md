@@ -1,3 +1,9 @@
 # Page parente
 
-La page parente va servir à hiérarchiser vos pages en définissant quelle page est parente d'une page enfant. Concrètement, cela signifie que si vous créez une page "Livres" et que vous la mettez parente d'une autre page "Livres pour enfants" cela s'écrira http://tonnomdesite.com/livres/livres-pour-enfants. Attention tout de même à bien manipuler cette fonction car certaines modifications sur la page parente entrainent des modifications automatiques sur la page enfant.
+Lorsqu'une page est parente d'une autre page - une page enfant - cela signifie qu'elle se situe à un niveau hiérarchique supérieure dans l'arborescence d'un site. Une page enfant est comme une sous-catégorie de la page parente.
+
+**Comment cela se traduit sur Victoire ?**
+
+Si vous créez une page *Histoires pour enfants* et que vous indiquez que sa page parente est la page nommée *Livres* alors votre nouvelle page aura comme URL *nom-de-votre-site.com/livres/histoires-pour-enfants*.
+
+>**NB :** Attention à bien manipuler cette fonction car certaines modifications sur la page parente peuvent entrainer des modifications automatiques sur la page enfant.
