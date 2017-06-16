@@ -9,6 +9,8 @@ Après plus de 4 ans de travail, nous sommes fiers de vous présenter Victoire :
 
 Nous avons conçu ce CMS en mettant les attentes et problématiques des utilisateurs au coeur du projet pour vous proposer la solution la plus performante, intuitive et sécurisée possible.
 
+[Installer](https://github.com/Victoire/victoire/blob/2.3/doc/setup.md)
+
 [Découvrir Victoire](book/introduction)
 
 >**NB :** Cette documentation est en cours de construction. Si vous souhaitez y voir aborder un sujet précis, n'hésitez pas à créer un ticket **[ICI](https://github.com/Victoire/documentation-fr/issues)**
