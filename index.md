@@ -16,26 +16,26 @@ Nous avons conçu ce CMS en mettant les attentes et problématiques des utilisat
 ## [Book](book)
 Plongez-vous dans notre CMS Victoire avec un guide d'utilisation complet :
 
-### [Introduction](introduction)
+### [Introduction](book/introduction)
 - Qui est Victoire ? 
 - Pourquoi Victoire est différent ?
 - Qui peut utiliser Victoire ?
 - 10 raisons d’utiliser Victoire
 
-### [Se connecter](login)
+### [Se connecter](book/login)
 - Se connecter à son site
 
-### [Menus de navigation](menu-nav)
+### [Menus de navigation](book/menu-nav)
 - Découverte de la barre de navigation haut
 - Découverte de la barre de navigation bas
 
-### [Modes](mode-front)
+### [Modes](book/mode-front)
 - À quoi sert le mode aperçu ? 
 - À quoi sert le mode création ?
 - À quoi sert le mode édition ?
 - À quoi sert le mode style ?
 
-#### [Mode création](mode-creation)
+#### [Mode création](book/mode-creation)
 - Titre 
 - Image
 - Bouton 
@@ -48,15 +48,15 @@ Plongez-vous dans notre CMS Victoire avec un guide d'utilisation complet :
 - Onglet
 - Mailchimp newsletter
 
-#### [Mode style](mode-style)
+#### [Mode style](book/mode-style)
 - Découverte du mode style
 
-### [Blog](blog)
+### [Blog](book/blog)
 - Comment créer un blog ? 
 - Comment gérer son blog ?
 - Comment créer un article ?
 
-### [SEO](seo)
+### [SEO](book/seo)
 - Comment optimiser ses balises ? 
 - Comment régler ses paramètres Open Graph ?
 - Comment régler ses balises Index et Follow ?
@@ -66,15 +66,15 @@ Plongez-vous dans notre CMS Victoire avec un guide d'utilisation complet :
 
 Pour tous :
 
-- [Comment créer un modèle de page ?](how-to-create-template)
-- [Comment traduire mon site en anglais ?](how-to-traduce-website)
-- [Comment optimiser mes images pour le SEO ?](how-to-optimize-images)
+- [Comment créer un modèle de page ?](cookbook/how-to-create-template)
+- [Comment traduire mon site en anglais ?](cookbook/how-to-traduce-website)
+- [Comment optimiser mes images pour le SEO ?](cookbook/how-to-optimize-images)
 
 Pour les développeurs :
 
-- [Créer un nouveau widget](widget-creation)
-- [Surcharger un modèle](override-layout)
-- [Créer un nouveau critère de personnalisation de contenu _(criteria)_](play-with-criterias)
+- [Créer un nouveau widget](cookbook/widget-creation)
+- [Surcharger un modèle](cookbook/override-layout)
+- [Créer un nouveau critère de personnalisation de contenu _(criteria)_](cookbook/play-with-criterias)
 
 
 ## [Lexique](lexical)
