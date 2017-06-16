@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <p style="text-align:center";>Victoire CMS</p>
+title: Victoire CMS
 ---
 
 # Bienvenue sur la documentation du CMS Victoire
