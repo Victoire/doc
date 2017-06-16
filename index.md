@@ -27,7 +27,7 @@ Plongez-vous dans notre CMS Victoire avec un guide d'utilisation complet :
 ### [Se connecter](book/login)
 - Se connecter à son site
 
-### [Menus de navigation](book/menu-nav)
+### [Menus de navigation](book/menus-nav)
 - Découverte de la barre de navigation haut
 - Découverte de la barre de navigation bas
 
